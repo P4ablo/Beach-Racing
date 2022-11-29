@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2321502183
+    locked: 0
+  - name: Road
+    uniqueID: 3881870721
+    locked: 0
+  - name: finish
+    uniqueID: 1615247615
+    locked: 0
+  - name: santabody
+    uniqueID: 3913399021
+    locked: 0
+  - name: vehicle
+    uniqueID: 2347639809
+    locked: 0
+  - name: tire
+    uniqueID: 1049516241
+    locked: 0
+  - name: ramp1
+    uniqueID: 800594333
+    locked: 0
+  - name: GasRefil
+    uniqueID: 2206486087
+    locked: 0
